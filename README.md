@@ -5,8 +5,8 @@
 ### Frameworks
 
 - NextJS
-  - [pages] 폴더 안의 파일이 라우트로 사용된다.
-  - Server Side Rendering 이다.
+  - '/pages' 폴더 안의 파일이 자동으로 라우팅된다.
+  - Server Side Rendering
 
 ### Style
 
